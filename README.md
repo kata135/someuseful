@@ -1,1 +1,2 @@
 # someuseful
+play with LLMs
